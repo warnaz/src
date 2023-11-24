@@ -6,3 +6,4 @@ web3
 loguru
 requests
 pydantic
+psycopg2-binary
