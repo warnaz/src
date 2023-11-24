@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 proxy_url = "http://212.220.13.98:4153"
 
-TOKEN = '6700289875:AAGqh_8GCOkv1Q51lInUBoCs1xLRgy2MAEc'
+TOKEN = '6761149221:AAGCsTGS8ApaeFwIBjXV-dzFIAMSusFGEgs'
 
 # RPC 
 RPC_ONE = 'https://1rpc.io/linea'
