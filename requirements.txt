@@ -1,7 +1,6 @@
 aiogram==2.13
 sqlalchemy
 datetime
-logging
 fake_useragent
 web3
 loguru
